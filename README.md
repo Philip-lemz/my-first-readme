@@ -8,7 +8,7 @@ Follow these steps to set up the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/my-first-readme.git
+git clone https://github.com/Philip-lemz/my-first-readme.git
 
 # Navigate to the project directory
 cd my-first-readme
@@ -87,7 +87,7 @@ We welcome contributions from the community! Please follow these guidelines:
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ## Author(s)
-- **Your Name** - *Initial developer & maintainer* - [your-username](https://github.com/your-username)
+- **Philip** - *Initial developer & maintainer* - [your-username](https://github.com/Philip-lemz)
 
 ## Screenshot
 ![Project Demonstration](https://via.placeholder.com/800x400/4A90E2/FFFFFF?text=My+First+README+Project+Screenshot)
@@ -102,10 +102,10 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 | Badges Integration | ✅ Complete | v1.0 | Status indicators |
 
 ## Badges
-![GitHub License](https://img.shields.io/github/license/your-username/my-first-readme)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/your-username/my-first-readme)
-![GitHub Issues](https://img.shields.io/github/issues/your-username/my-first-readme)
-![GitHub Stars](https://img.shields.io/github/stars/your-username/my-first-readme)
+![GitHub License](https://img.shields.io/github/license/Philip-lemz/my-first-readme)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/Philip-lemz/my-first-readme)
+![GitHub Issues](https://img.shields.io/github/issues/Philip-lemz/my-first-readme)
+![GitHub Stars](https://img.shields.io/github/stars/Philip-lemz/my-first-readme)
 
 ## Quick Links
 - [📖 View Documentation](#description)
