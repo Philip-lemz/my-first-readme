@@ -119,4 +119,4 @@ If this project helps you, please give it a ⭐ on GitHub!
 
 ---
 
-**Repository Link**: https://github.com/your-username/my-first-readme
+**Repository Link**: https://github.com/Philip-lemz/my-first-readme
