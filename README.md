@@ -87,7 +87,7 @@ We welcome contributions from the community! Please follow these guidelines:
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ## Author(s)
-- **Philip** - *Initial developer & maintainer* - [your-username](https://github.com/Philip-lemz)
+- **Philip** - *Initial developer & maintainer* - [Philip-lemz](https://github.com/Philip-lemz)
 
 ## Screenshot
 ![Project Demonstration](https://via.placeholder.com/800x400/4A90E2/FFFFFF?text=My+First+README+Project+Screenshot)
